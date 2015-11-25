@@ -1,0 +1,10 @@
+{
+	"ImportPath": "slack-markov",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/mrjones/oauth",
+			"Rev": "08f4af202e479e3caee4c7d4119066d76fd2e83e"
+		}
+	]
+}

@@ -11,9 +11,9 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/mrjones/oauth"
 	"io/ioutil"
 	"net/http"
+	"slack-markov/Godeps/_workspace/src/github.com/mrjones/oauth"
 )
 
 type Twitter struct {
